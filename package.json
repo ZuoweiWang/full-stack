@@ -1,0 +1,9 @@
+{
+  "name": "full-stack",
+  "version": "0.0.1",
+  "description": "from the role of front-end to full-stack transformation",
+  "main": "index.js",
+  "repository": "git@github.com:ZuoweiWang/full-stack.git",
+  "author": "zuowei",
+  "license": "MIT"
+}
