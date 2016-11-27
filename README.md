@@ -1,2 +1,2 @@
 # full-stack
-This project is from font-end to full-stack...
+This project will help you from the role of front-end to full-stack transformation.
