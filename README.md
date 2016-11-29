@@ -1,2 +1,2 @@
 # full-stack
-This project will help you from the role of front-end to full-stack transformation.
+💡 It will help you from the role of front-end to full-stack transformation.
