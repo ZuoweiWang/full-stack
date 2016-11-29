@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "express": "^4.14.0",
+    "get-ip": "^1.1.1",
     "vue": "^2.1.0"
   },
   "devDependencies": {
