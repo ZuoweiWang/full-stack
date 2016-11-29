@@ -1,1 +1,1 @@
-+ [yarn](https://yarnpkg.com)
+* [yarn](https://yarnpkg.com)
